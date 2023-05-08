@@ -2,7 +2,6 @@
 //  CommonMethods.swift
 //  SET
 //
-//  Created by Kaushik Movaliya on 08/05/23.
 //
 
 import Foundation

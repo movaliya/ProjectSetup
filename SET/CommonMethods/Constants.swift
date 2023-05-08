@@ -1,10 +1,5 @@
 //
 //  Constants.swift
-//  iPOS
-//
-//  Created by Devang Bhatt on 24/03/20.
-//  Copyright © 2020 Devang Bhatt. All rights reserved.
-//
 
 import Foundation
 import UIKit
